@@ -3,7 +3,8 @@ site_url: http://www.mkdocs.org
 site_description: Project documentation with Markdown.
 site_author: MkDocs Team
 theme:
-  name: 'material'
+  name: null
+  custom_dir: 'mkdocs-material/material'
 
 repo_url: https://github.com/mkdocs/mkdocs/
 edit_uri: ""
